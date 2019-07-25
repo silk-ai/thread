@@ -1,0 +1,5 @@
+.gradle
+target
+.DS_Store
+.class_path
+.settings
